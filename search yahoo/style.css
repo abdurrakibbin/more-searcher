@@ -1,0 +1,37 @@
+.search_ber{
+    padding: 15px;
+    width: 500px;
+    border: 1px solid rgba(0, 0, 0, 0.562);
+    background-color: rgb(14, 14, 19);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+
+.cen_d{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translatex(-50%) translateY(-50%);
+}
+
+.cen_x{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translatex(-50%) translateY(-50%);
+}
+
+body{
+    font-family: Verdana;
+    background-color: rgb(17, 16, 22);
+}
+
+.google_logo{
+    width: 300px;
+}
